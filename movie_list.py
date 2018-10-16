@@ -1,4 +1,4 @@
-'''This module contais a list of six favourite movies to be displayed on a local website.
+'''This module contanis a list of six favourite movies to be displayed on a local website.
     Each movie object provies 4 types of information abou the movie:
     - title 
     - storyline 

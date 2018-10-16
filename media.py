@@ -16,7 +16,7 @@ class Movie():
     def __init__(self, movie_title, movie_storyline,
                  poster_image, youtube_trailer_url):
         '''Each movie object should provide 4 types of information:
-            movie's title, storyline, poster imageand youtube trailer'''        
+            movie's title, storyline, poster image and youtube trailer'''        
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
