@@ -7,8 +7,9 @@ website.
 ## Quickstart 
 
 In your command window type
-$ git clone 
-
+```
+$ git clone https://github.com/omarelewa21/Movie_website
+```
 You can either open the **index.html** to display the movie website or you can run the python code in **movie_list.py file.** 
 
 ## Generate you own website 
