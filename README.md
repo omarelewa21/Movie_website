@@ -16,7 +16,6 @@ You can either open the **index.html** to display the movie website or you can r
 
 You can generate you own list of movies by adjusting the **movie_list.py file.** 
 
-''' 
 * Open the movie_list.py file 
 * Comment all the movie instances exist 
 * Pick up six movies then write you six movie instances in the same format of the old movie instances 
@@ -28,4 +27,4 @@ You can generate you own list of movies by adjusting the **movie_list.py file.**
 
 * Include all your six movies in an array and store in a variable movies 
 * Type this line at the end fresh_tomatoes.open_movies_page(movies)
-'''
+
